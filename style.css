@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(0, 0, 0);
+  color: black;
+}
+.advertisement_Or_hidden_Word {
+  color: #ffffff;
+}
+.page {
+  color: #ffffff;
+}
+.end_Of_the_Game {
+  color: #ffffff;
+}
+.game_Page_no_Image {
+  position: relative;
+
+  left: 30%;
+  width: 50%;
+  text-align: center;
+  top: 300px;
+}
+.start_Screen {
+  position: relative;
+  text-align: center;
+  top: 300px;
+}
+.end_Of_the_Game {
+  position: relative;
+  text-align: center;
+  top: 300px;
+}
